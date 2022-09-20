@@ -13,4 +13,4 @@ JavaScript
 Git e Github
 
 ## Contato
-daniel.aretakis@hotmail.com**
+daniel.aretakis@hotmail.com
