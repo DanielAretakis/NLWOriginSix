@@ -4,7 +4,7 @@
 
 ![preview](.github/Preview.png)
 
-[Clique aqui para acessar](https://danielaretakis.github.io/OriginSix-BeautySalon/)
+[Clique aqui para acessar](https://danielaretakis.github.io/NLWOriginSix/)
 
 ## Tecnologias
 HTML
